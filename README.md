@@ -5,5 +5,6 @@ A website design sample for studios using animations.
 
 
 
-https://user-images.githubusercontent.com/91984031/144941163-65b0a10f-e480-4c94-b43b-d8c8f0748335.mp4
+
+https://user-images.githubusercontent.com/91984031/144941269-c0607fdb-2077-4e5c-b846-e7eae8825446.mp4
 
